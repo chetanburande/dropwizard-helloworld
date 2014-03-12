@@ -12,5 +12,5 @@ Endpoint: http://localhost:8080/helloworld
 
 Admin: http://localhost:8081/
 
-Check for lab 4 check in
+Check for lab 4
 
